@@ -72,3 +72,27 @@
     state: coin_4
   - type: Stack
     count: 50
+
+- type: entity
+  parent: BaseItem
+  id: TTICloningBox
+  name: TTI Cloning Box
+  description: An unremarkable box.
+  components:
+  - type: Sprite
+    sprite: Objects/Storage/boxes.rsi
+    layers:
+    - state: box_of_doom
+    - state: writing_of_doom
+  - type: Item
+    sprite: Objects/Storage/boxes.rsi
+    size: Large
+    shape:
+    - 0,0,2,2
+  - type: SpawnItemsOnUse
+    items:
+      - id: CloningPodMachineCircuitboard
+      - id: CloningConsoleComputerCircuitboard
+      - id: MedicalScannerMachineCircuitboard
+    sound:
+      path: /Audio/Effects/unwrap.ogg

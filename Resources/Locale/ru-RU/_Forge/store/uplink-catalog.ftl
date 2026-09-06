@@ -93,14 +93,16 @@ store-category-ttiblueprints = Чертежи
 # Weapon
 uplink-tti-launchersyringe-name = Шприцемёт
 uplink-tti-launchersyringe-desc = Лучшее оружие любого медика! Наверное...
+uplink-tti-KD12Medic-name = КД12
+uplink-tti-KD12Medic-desc = Компактный Дробовик 12, табельное оружие медицинских работников.
 # Ammo
 uplink-tti-minisyringe-name = Набор мини-шприцов
 uplink-tti-minisyringe-desc = Включает в себя 8 мини-шприцов и кейс.
 # Utility
 uplink-tti-hypobrigmedic-name = Мини-гипоспрей
 uplink-tti-hypobrigmedic-desc = Не лучшая версия гипоспрея, но со своими задачами справляется. Вмещает 25 единиц.
-uplink-tti-medicaltechfabcircuitboard-name = Медицинский ТехФаб
-uplink-tti-medicaltechfabcircuitboard-desc = Машинная плата медицинского ТехФаба.
+uplink-tti-medicaltechfabflatpack-name = Медицинский ТехФаб
+uplink-tti-medicaltechfabflatpack-desc = Упакованный медицинский ТехФаб.
 uplink-tti-hypospray-name = Гипоспрей
 uplink-tti-hypospray-desc = Обычный гипоспрей. Вмещает 30 единиц. Что ты ещё ожидал здесь увидеть?
 uplink-tti-clothingshoesbootsmagtrauma-name = Магнитные ботинки
@@ -117,6 +119,14 @@ uplink-tti-omnizinechemistrybottle-name = Бутылочка омнизина
 uplink-tti-omnizinechemistrybottle-desc = Невозможное возможно! Кто-то научился производить омнизин, но это, к сожалению, оказались не вы.
 uplink-tti-restock-name = набор поплнение МедВенда от компании TTI
 uplink-tti-restock-desc = Набор пополнения вендомата с которого компания TTI получает огромный процент от продаж в свой бюджет. Постарайтесь, чтоб вендоматы TTI были заполнены всегда.
+uplink-tti-cloningbox-name = Набор клонирования
+uplink-tti-cloningbox-desc = Набор плат для создания полного комплекта машин клонирования.
+uplink-tti-medkitfilled-name = Аптечка первой помощи
+uplink-tti-medkitfilled-desc = Базовая аптечка для базовых травм.
+uplink-tti-advancedmedkitfilled-name = Продвинутая аптечка
+uplink-tti-advancedmedkitfilled-desc = Продвинутая аптечка для сложных травм.
+uplink-tti-combatmedkitfilled-name = Боевая аптечка
+uplink-tti-combatmedkitfilled-desc = Боевая аптечка для любителей больших пушек.
 # Hardsuits (Armor)
 uplink-tti-clothingheadhatarmoredtrauma-name = Шлем
 uplink-tti-clothingheadhatarmoredtrauma-desc = Фирменный шлем для врачей.
@@ -131,7 +141,7 @@ uplink-tti-clothingouterhardsuittraumashooter-desc = Фирменный скаф
 # Blueprints
 uplink-tti-blueprinttechmed-name = Продвинутые медикаменты
 uplink-tti-blueprinttechmed-desc = Рецепт продвинутых медикаментов. Включает в себя регенеративную сеть и медицинскую нить.
-uplink-tti-blueprinttticlothing-name = Униформа
-uplink-tti-blueprinttticlothing-desc = Чертёж униформы. Включает в себя... Да много чего он в себя включает.
-uplink-tti-blueprintttiouterclothing-name = Экипировка
-uplink-tti-blueprintttiouterclothing-desc = Чертёж экипировки.
+uplink-tti-blueprintticlothing-name = Униформа
+uplink-tti-blueprintticlothing-desc = Чертёж униформы травматологии. Включает в себя... Да много чего он в себя включает.
+uplink-tti-blueprinttiarmorclothing-name = Снаряжение
+uplink-tti-blueprinttiarmorclothing-desc = Чертёж снаряжения травматологии. В основном, защитное.
